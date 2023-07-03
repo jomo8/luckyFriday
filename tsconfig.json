@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es6", 
+        "module": "commonjs",
+        "lib": ["es2015.promise", "dom"], 
+        "strict": true
+    },
+    "include": ["main.ts"],
+    "exclude": ["**/*"]
+}
